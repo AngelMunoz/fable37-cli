@@ -19,7 +19,7 @@ Project and references (1 source files) parsed in 2125ms
 Started Fable compilation...
 ```
 
-and it will get stale sometimes files do get compiled
+and it will get stale, sometimes files do get compiled but the CLI keeps stale
 
 If you invoke it manually
 
